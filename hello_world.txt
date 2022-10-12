@@ -1,0 +1,3 @@
+This is me learning how to program.
+I'm currently using git to push files that
+I have created to the repository
